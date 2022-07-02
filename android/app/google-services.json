@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1090177342813",
+    "project_id": "instcl-f4c57",
+    "storage_bucket": "instcl-f4c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090177342813:android:e6a907db797256f6d01cb4",
+        "android_client_info": {
+          "package_name": "com.example.instcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090177342813-qlue2s13ho36sl7o736oivlfs3kdkgdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFFqfbU5kLo2BeJTfzlYFP8LmJmr1l24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090177342813-qlue2s13ho36sl7o736oivlfs3kdkgdd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090177342813-bettiasbtlmvlh5kpdonoievas9tj5sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instcl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
